@@ -1,0 +1,8 @@
+<form bindsubmit="formSubmit">
+    <view class="choose-upload" bindtap="chooseImage">
+    	<image src="{{fileSrc}}" class="upload-img" wx:if="{{fileSrc}}"></image>
+    </view>
+    <view class="btn-area">
+        <button formType="submit" type="primary">确定</button>
+    </view>
+</form>
