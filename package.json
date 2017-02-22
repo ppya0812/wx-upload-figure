@@ -1,6 +1,6 @@
 {
   "name": "wx-upload-figure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wx upload figure",
   "main": "index.js",
   "scripts": {
